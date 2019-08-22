@@ -1,0 +1,19 @@
+.amel {
+    text-align: center;
+}
+
+.mukhlis {
+    text-align: left;
+}
+
+
+.gambar {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+}
+.gambar img {
+    vertical-align: middle;
+}
+
+s
